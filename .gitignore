@@ -25,3 +25,6 @@ Build/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Imported .zip files
+*.zip
